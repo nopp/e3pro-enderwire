@@ -1,4 +1,4 @@
-# Ender3 Pro Converted to Enderwire (like Voron Switchwire)
+# Ender3 Pro converted to Switchwire
 
 ## Some images
 
